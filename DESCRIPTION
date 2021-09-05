@@ -1,0 +1,20 @@
+Package: siatestmodule
+Title: Testing SIA Module
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "First",
+           family = "Last",
+           role = c("aut", "cre"),
+           email = "first.last@example.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Example SIA module.
+License: GPL (>= 3)
+Imports: 
+    ggplot2,
+    shiny,
+    siacore
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+SIAmodule: true
