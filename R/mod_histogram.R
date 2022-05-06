@@ -7,6 +7,7 @@
 #' @noRd
 #'
 #' @import shiny
+#' @import ggplot2
 #' @importFrom shiny NS tagList
 #'
 #' @export
